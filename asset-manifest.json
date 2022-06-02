@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUtils/static/css/main.ecaaf141.css",
+    "main.js": "/TextUtils/static/js/main.e4884303.js",
+    "static/js/787.83d46a80.chunk.js": "/TextUtils/static/js/787.83d46a80.chunk.js",
+    "index.html": "/TextUtils/index.html",
+    "main.ecaaf141.css.map": "/TextUtils/static/css/main.ecaaf141.css.map",
+    "main.e4884303.js.map": "/TextUtils/static/js/main.e4884303.js.map",
+    "787.83d46a80.chunk.js.map": "/TextUtils/static/js/787.83d46a80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecaaf141.css",
+    "static/js/main.e4884303.js"
+  ]
+}
